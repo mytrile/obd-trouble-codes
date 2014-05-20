@@ -1,6 +1,6 @@
 # obd-trouble-codes
 
-[OBD](http://en.wikipedia.org/wiki/On-board_diagnostics) trouble codes in JSON, CSV and SQLite
+[OBD](http://en.wikipedia.org/wiki/On-board_diagnostics) trouble codes in JSON and CSV format and SQLite db file
 
 For more complete information about the codes visit [http://www.obd-codes.com/](http://www.obd-codes.com/)
 
